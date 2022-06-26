@@ -1,0 +1,28 @@
+.contact {
+  display: flex;
+  width: 30%;
+  color: white;
+  border-radius: 12px;
+  border: 2px solid white;
+  margin-top: 15px;
+  align-items: center;
+}
+
+.image{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+}
+
+img{
+  height: 80px;
+  border-radius: 50%;
+}
+
+.text{
+  width: 70%;
+}
+
+
+
